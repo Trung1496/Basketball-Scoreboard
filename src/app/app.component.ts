@@ -25,6 +25,7 @@ export class AppComponent {
 
 //function viết như này này 
   plusOne() {
+    //This is new comment
     this.score++;
   }
 
